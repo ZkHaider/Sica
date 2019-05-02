@@ -586,6 +586,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
@@ -615,6 +616,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
@@ -644,6 +646,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -673,6 +676,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -910,6 +914,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -937,6 +942,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MACH_O_TYPE = staticlib;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cats-oss.sica";
 				PRODUCT_NAME = Sica;
 				PROVISIONING_PROFILE_SPECIFIER = "";
